@@ -440,7 +440,6 @@ header .container-fluid {
 
 .slider_section {
     background: #212020;
-    min-height: 100vh;
     padding-top: 93px;
     padding-bottom: 100px;
 }
@@ -493,9 +492,6 @@ ul.social_top_icon li a:hover {
 
 }
 
-.slider_section {
-    height: 100%;
-}
 
 .main_text h1 {
     font-weight: normal;

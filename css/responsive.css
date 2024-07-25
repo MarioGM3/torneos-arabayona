@@ -34,17 +34,11 @@
         padding-top: 186px;
         padding-right: 15px;
     }
-    .slider_section {
-        height: 100vh;
-    }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
     .container-types {
         margin-top: 100px;
-    }
-    .slider_section {
-        height: 100vh;
     }
     .training {
         margin-top: 90px;
@@ -161,7 +155,6 @@
         display: block;
     }
     .slider_section {
-        min-height: 100%;
         padding-top: 195px;
     }
     .main_text h1 {
@@ -253,7 +246,6 @@
         margin-left: 10px;
     }
     .slider_section {
-        min-height: 100%;
         padding-top: 177px;
     }
     .main_text h1 {

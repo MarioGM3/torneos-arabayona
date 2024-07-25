@@ -36,6 +36,25 @@ a {
     margin-top: 20px;
 }
 
+.carteles {
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+    display: grid;
+    text-align: center;
+}
+
+.cartel1 {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.cartel2 {
+    padding-top: 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+
 h1,
 h2,
 h3,

@@ -75,6 +75,9 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    .row.big{
+        margin-top: 0px;
+    }
     .container-types {
         margin-top: 100px;
     }
@@ -147,6 +150,9 @@
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
+    .row.big{
+        margin-top: 0px;
+    }
     .container-types {
         margin-top: 100px;
     }
@@ -220,6 +226,9 @@
 }
 
 @media (max-width: 575px) {
+    .row.big{
+        margin-top: 0px;
+    }
     .container-types {
         margin-top: 100px;
     }

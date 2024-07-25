@@ -32,6 +32,10 @@ a {
     transition: all .3s ease-in-out;
 }
 
+.row.big{
+    margin-top: 20px;
+}
+
 h1,
 h2,
 h3,

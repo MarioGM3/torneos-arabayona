@@ -492,6 +492,10 @@ ul.social_top_icon li a:hover {
 
 }
 
+.last-update {
+    color: white;
+    margin-bottom: 20px;
+}
 
 .main_text h1 {
     font-weight: normal;

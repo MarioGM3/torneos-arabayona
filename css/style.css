@@ -444,6 +444,14 @@ header .container-fluid {
     padding-bottom: 100px;
 }
 
+.sorteo {
+    margin-top: 20px;
+    text-align:center;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
 
 /** slider section **/
 
@@ -571,6 +579,12 @@ ul.social_top_icon li a:hover {
 
 .container-types {
     margin-top: 200px;
+}
+
+.title-ap {
+    margin-top: 20px;
+    font-size: 25px;
+    color: #FFDE59;
 }
 
 .black_box h3 {

@@ -1114,5 +1114,16 @@ a.article:hover {
     color: #fff !important;
 }
 
+.cuadro-container {
+    margin-top: 20px;
+    width: 100%;
+    overflow: auto;
+    border: 2px solid #FFDE59;
+}
+
+.cuadro-container img{
+    min-width: 1500px !important;
+}
+
 
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/

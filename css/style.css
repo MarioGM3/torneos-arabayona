@@ -1128,7 +1128,13 @@ a.article:hover {
 .white {
     margin-top: 10px;
     color: white;
+    font-size: 20px;
 }
 
+.win { 
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+}
 
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/

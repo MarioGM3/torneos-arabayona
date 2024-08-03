@@ -1121,6 +1121,10 @@ a.article:hover {
     border: 2px solid #FFDE59;
 }
 
+.hr-white {
+    border-top: 1px solid white;
+}
+
 .cuadro-container img{
     min-width: 1500px !important;
 }
